@@ -62,4 +62,4 @@ databases:
     # increase the disk size to any multiple of 5 GB by
     # setting the `diskSizeGB` property.
     #
-    # diskSizeGB: 5
+    diskSizeGB: 1
